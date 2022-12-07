@@ -1,1 +1,5 @@
 
+
+from git to local repository
+
+deneme yanılma
