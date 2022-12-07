@@ -3,3 +3,10 @@
 from git to local repository
 
 deneme yanılma
+
+
+adding more text
+
+Zumra Tarik
+
+çocuklarım
